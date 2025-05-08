@@ -1,0 +1,5 @@
+websockets>=12.0
+aliyun-python-sdk-core>=2.15.1   # 用于获取 Token
+soundfile>=0.13.1                # 读写 PCM/WAV
+numpy>=1.24
+python-dotenv
